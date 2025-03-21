@@ -1,5 +1,3 @@
-# ECE598DA Topics in Information-Theoretic Cryptography (Fall 2025)
-
 ## Instructor
 [Daniel Alabi](http://alabidan.me)
 
