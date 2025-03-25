@@ -8,9 +8,9 @@
 
 ## Recommended Texts
 
-- Tutorials on the Foundations of Cryptography. Springer, 2017. Edited by Yehuda Lindell.
+- *Introduction to Cryptography with Coding Theory*. By Wade Trappe, Lawrence C. Washington.
 
-- Introduction to Cryptography with Coding Theory. By Wade Trappe, Lawrence C. Washington.
+- *Tutorials on the Foundations of Cryptography*. Edited by Yehuda Lindell.
 
 ## Schedule
 
