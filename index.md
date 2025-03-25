@@ -14,7 +14,7 @@
 
 ## Schedule
 
-**Week 1**: Introduction: one-time pad review, review of probability theory, entropy, divergences
+**Week 1**: Introduction: motivations, one-time pad review, review of probability theory
 
 **Week 2**:  Attacks and Composition Theorems for Differential Privacy
 
