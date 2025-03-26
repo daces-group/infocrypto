@@ -4,7 +4,10 @@
 [Daniel Alabi](http://alabidan.me)
 
 ## Meeting Times/Days
-1hr 20 mins on Tuesdays and Thursdays
+1hr 20 mins (05:00PM - 06:20PM) on Tuesdays and Thursdays
+
+## Location
+2015 Electrical & Computer Engineering Building
 
 ## Recommended Texts
 
