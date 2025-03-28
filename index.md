@@ -3,13 +3,25 @@
 ## Instructor
 [Daniel Alabi](http://alabidan.me)
 
+## Description
+In this course, we will study foundational and recent work on the use of information theory to design and analyze cryptographic protocols. We will begin by studying privacy attacks which motivate strong privacy and security definitions. Then, we will explore the basics of differential privacy and study some core works on zero-knowledge proofs. Finally, we will explore various applications, including watermarking of generative models.
+
 ## Meeting Times/Days
 1hr 20 mins (05:00PM - 06:20PM) on Tuesdays and Thursdays
 
 ## Location
 Room 2015 in the Electrical & Computer Engineering Building
 
-## Recommended Texts
+## Prerequisites
+
+*	ECE/CS 374: Introduction to Algorithms and Models of Computation
+*	At least one of:
+  * ECE 313/MATH 362: Probability with Engineering Applications
+  * MATH 461: Probability Theory
+
+Prerequisite overrides will be considered by the instructor on a case-by-case basis.
+
+## Recommended Textbooks
 
 - *Introduction to Cryptography with Coding Theory*. By Wade Trappe, Lawrence C. Washington.
 
