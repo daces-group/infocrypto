@@ -41,7 +41,12 @@
 
 **Week 12**: Code-Based Cryptography: Part II
 
-**Week 13**: Applications: Watermarking of Generative Models, Quantum Cryptography, Proof Systems for Machine Learning
+**Week 13**: More Applications
+
+* Watermarking of Generative Models
+* Proof Systems for Machine Learning
+* Bounded-Storage Cryptography
+* Quantum Cryptography
 
 **Week 14**: Project Presentations
 
