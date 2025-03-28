@@ -14,10 +14,10 @@ Room 2015 in the Electrical & Computer Engineering Building
 
 ## Prerequisites
 
-*	ECE/CS 374: Introduction to Algorithms and Models of Computation
 *	At least one of:
     - ECE 313/MATH 362: Probability with Engineering Applications
     - MATH 461: Probability Theory
+*	ECE/CS 374: Introduction to Algorithms and Models of Computation
 
 Prerequisite overrides will be considered by the instructor on a case-by-case basis.
 
