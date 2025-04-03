@@ -69,7 +69,7 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 - Attendance is mandatory for all lectures, with a maximum of three unexcused absences allowed.
 - Each student must (co)scribe at least one lecture during the course.
 
-### Quizzes (10%)
+### Quiz (10%)
 
 - There will be 1 (in-class) short quiz to gauge students’ understanding of the fundamentals.
 - The quiz will happen either in the middle or end of the semester.
