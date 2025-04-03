@@ -64,15 +64,15 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 ## Grading Policy
 
-### Class Participation (20%)
+### Class Participation (30%)
 
 - Attendance is mandatory for all lectures, with a maximum of three unexcused absences allowed.
 - Each student must (co)scribe at least one lecture during the course.
 
-### Quizzes (20%)
+### Quizzes (10%)
 
-- There will be 2 (in-class) short quizzes to gauge students’ understanding of the fundamentals.
-- The first and second quizzes will be given in the middle and end of the semester, respectively.
+- There will be 1 (in-class) short quiz to gauge students’ understanding of the fundamentals.
+- The quiz will happen either in the middle or end of the semester.
   
 ### Project (60%)
 Students will work on projects related to one or more of the covered topics.
