@@ -53,12 +53,13 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 **Week 12**: Code-Based Cryptography: Part II
 
-**Week 13**: More Applications
+**Week 13**: More Applications and Project Topics
 
 * Watermarking of Generative Models
 * Proof Systems for Machine Learning
 * Bounded-Storage Cryptography
 * Quantum Cryptography
+* Adaptive Leakage Attacks
 
 **Week 14**: Project Presentations
 
