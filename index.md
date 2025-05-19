@@ -29,11 +29,11 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 ## Schedule
 
-**Week 1**: Introduction: motivations, one-time pad review, review of probability theory
+**Week 1**: Introduction: motivations, one-time pad review, review of some probability theory
 
-**Week 2**:  Attacks and Composition Theorems for Differential Privacy
+**Week 2**: Privacy and Security Attacks
 
-**Week 3**: Standard Mechanisms for Differential Privacy
+**Week 3**: Standard Mechanisms for Differential Privacy and Composition
 
 **Week 4**: Information-Theoretic Lower Bounds for Differential Privacy
 
@@ -45,21 +45,21 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 **Week 8**: Statistical Zero-Knowledge Proofs: Part II
 
-**Week 9**: Multi-Party Computation
+**Week 9**: Privacy for Distributed Computing
 
-**Week 10**: Multi-Party and Computational Differential Privacy
+**Week 10**: Multi-Party Computation
 
-**Week 11**: Code-Based Cryptography: Part I
+**Week 11**: Multi-Party Differential Privacy
 
-**Week 12**: Code-Based Cryptography: Part II
+**Week 12**: Computational Differential Privacy
 
 **Week 13**: More Applications and Project Topics
 
+* Adaptive Leakage Attacks
 * Watermarking of Generative Models
 * Proof Systems for Machine Learning
 * Bounded-Storage Cryptography
 * Quantum Cryptography
-* Adaptive Leakage Attacks
 
 **Week 14**: Project Presentations
 
