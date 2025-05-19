@@ -39,13 +39,13 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 **Week 5**: Differentially Private Statistical Estimation and Testing
 
-**Week 6**: Zero-Knowledge Proofs
+**Week 6**: Privacy for Distributed Computing
 
-**Week 7**: Statistical Zero-Knowledge Proofs: Part I
+**Week 7**: Zero-Knowledge Proofs
 
-**Week 8**: Statistical Zero-Knowledge Proofs: Part II
+**Week 8**: Statistical Zero-Knowledge Proofs: Part I
 
-**Week 9**: Privacy for Distributed Computing
+**Week 9**: Statistical Zero-Knowledge Proofs: Part II
 
 **Week 10**: Multi-Party Computation
 
