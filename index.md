@@ -31,7 +31,7 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 **Week 1**: Introduction: motivations, one-time pad review, review of some probability theory
 
-**Week 2**: Privacy and Security Attacks
+**Week 2**: Attacks on Privacy, Security, Valuation
 
 **Week 3**: Standard Mechanisms for Differential Privacy and Composition
 
