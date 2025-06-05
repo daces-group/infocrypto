@@ -7,7 +7,7 @@
 In this course, we will study foundational and recent work on the use of information theory to design and analyze cryptographic protocols. We will begin by studying privacy attacks which motivate strong privacy and security definitions. Then, we will explore the basics of differential privacy and study some core works on zero-knowledge proofs. Finally, we will explore various applications, including watermarking of generative models.
 
 ## Meeting Times/Days
-1hr 20 mins (05:00PM - 06:20PM) on Tuesdays and Thursdays
+1hr 20 mins (9:30AM - 10:50AM) on Tuesdays and Thursdays
 
 ## Location
 Room 2015 in the Electrical & Computer Engineering Building
