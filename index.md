@@ -34,12 +34,12 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 **Week 2**: Attacks on Privacy, Security, Valuation
 
 Readings:
-* Dinur-Nissim Attack [link](https://dl.acm.org/doi/10.1145/773153.773173)
+* Dinur-Nissim [attack](https://dl.acm.org/doi/10.1145/773153.773173)
 
 **Week 3**: Standard Mechanisms for Differential Privacy and Composition
 
 Readings:
-* Vadhan, Chapter 1 and 2 [link](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
+* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapters 1 and 2
 
 **Week 4**: Information-Theoretic Lower Bounds for Differential Privacy
 
