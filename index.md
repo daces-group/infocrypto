@@ -35,6 +35,7 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 Readings:
 * Dinur-Nissim [attack](https://dl.acm.org/doi/10.1145/773153.773173)
+* Chapter 2 of Trappe-Washington
 
 **Week 3**: Standard Mechanisms for Differential Privacy and Composition
 
@@ -65,7 +66,8 @@ Readings:
 * Watermarking of Generative Models
 * Proof Systems for Machine Learning
 * Bounded-Storage Cryptography
-* Quantum Cryptography
+* Quantum Cryptography (Chapter 17 of Trappe-Washington)
+
 
 **Week 14**: Project Presentations
 
