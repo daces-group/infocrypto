@@ -29,7 +29,11 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 ## Schedule
 
-**Week 1**: Introduction: motivations, one-time pad review, review of some probability theory
+**Week 1**: Introduction: motivations, one-time pad review, talking drums, review of some probability theory
+
+Readings:
+* Chapter 1 of *The Information* by James Gleick
+* Chapters 1-3 of *Introduction to Probability Models* by Sheldon Ross
 
 **Week 2**: Attacks on Privacy, Security, Valuation
 
