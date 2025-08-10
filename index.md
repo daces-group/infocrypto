@@ -61,7 +61,13 @@ Readings:
 
 **Week 11**: Multi-Party Differential Privacy
 
+Readings:
+* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapter 9
+
 **Week 12**: Computational Differential Privacy
+
+Readings:
+* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapter 10
 
 **Week 13**: More Applications and Project Topics
 
