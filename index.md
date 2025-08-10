@@ -45,7 +45,7 @@ Readings:
 **Week 4**: Information-Theoretic Lower Bounds for Differential Privacy
 
 Readings:
-* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapter 7
+* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapter 5
 
 **Week 5**: Differentially Private Statistical Estimation and Testing
 
