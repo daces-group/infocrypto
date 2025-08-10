@@ -29,7 +29,7 @@ Prerequisite overrides will be considered by the instructor on a case-by-case ba
 
 ## Schedule
 
-**Week 1**: Introduction: motivations, one-time pad review, talking drums, probability theory review
+**Week 1**: Introduction: motivations, one-time pad review, [talking drums](https://www.youtube.com/watch?v=B4oQJZ2TEVI), probability theory review
 
 Readings:
 * Chapter 1 of *The Information* by James Gleick
