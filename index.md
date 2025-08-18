@@ -55,7 +55,14 @@ Readings:
 
 **Week 5**: Differentially Private Statistical Estimation and Testing
 
+Readings:
+* [Gaboardi et al.](https://proceedings.mlr.press/v48/rogers16.html)
+* [McSherry-Talwar](https://ieeexplore.ieee.org/document/4389483)
+
 **Week 6**: Privacy for Distributed Computing
+
+Readings:
+* [Warner](https://www.jstor.org/stable/2283137)
 
 **Week 7**: Zero-Knowledge Proofs
 
@@ -65,9 +72,18 @@ Readings:
 
 **Week 8**: Statistical Zero-Knowledge Proofs: Part I
 
+Readings:
+* [Complete Problem for SZK](https://web.cs.ucla.edu/~sahai/work/web/2003%20Publications/J.ACM2003.pdf)
+
 **Week 9**: Statistical Zero-Knowledge Proofs: Part II
 
+Readings:
+* [Statistical Difference Beyond the Polarizing Regime](https://eccc.weizmann.ac.il/report/2019/038/)
+
 **Week 10**: Multi-Party Computation
+
+Readings:
+* [Yao](https://ieeexplore.ieee.org/document/4568207)
 
 **Week 11**: Multi-Party Differential Privacy
 
