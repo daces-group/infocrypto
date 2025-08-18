@@ -1,8 +1,5 @@
 # ECE598DA Topics in Information-Theoretic Cryptography
 
-## Instructor
-[Daniel Alabi](http://alabidan.me)
-
 ## Description
 In this course, we will study foundational and recent work on the use of information theory to design and analyze cryptographic protocols. We will begin by studying privacy attacks which motivate strong privacy and security definitions. Then, we will explore the basics of differential privacy and study some core works on zero-knowledge proofs. Finally, we will explore various applications, including watermarking of generative models.
 
@@ -11,6 +8,10 @@ In this course, we will study foundational and recent work on the use of informa
 
 ## Location
 Room 2015 in the Electrical & Computer Engineering Building
+
+## Instructor
+[Daniel Alabi](http://alabidan.me)
+OH: 11-12pm on Tuesdays (CSL 118)
 
 ## Prerequisites
 
