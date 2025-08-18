@@ -11,6 +11,7 @@ Room 2015 in the Electrical & Computer Engineering Building
 
 ## Instructor
 [Daniel Alabi](http://alabidan.me)
+
 OH: 11-12pm on Tuesdays (CSL 118)
 
 ## Prerequisites
