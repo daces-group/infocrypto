@@ -59,6 +59,10 @@ Readings:
 
 **Week 7**: Zero-Knowledge Proofs
 
+Readings:
+* [Goldwasser-Micali-Rackoff’89](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
+* [Goldreich-Micali-Wigderson’86](https://link.springer.com/chapter/10.1007/3-540-47721-7_11)
+
 **Week 8**: Statistical Zero-Knowledge Proofs: Part I
 
 **Week 9**: Statistical Zero-Knowledge Proofs: Part II
