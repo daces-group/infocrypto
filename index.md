@@ -37,6 +37,8 @@ Readings:
 * Chapter 1 of *The Information* by James Gleick
 * Chapters 1-3 of *Introduction to Probability Models* by Sheldon Ross
 
+[Exercises for Week 1](exercises/week1.pdf)
+
 **Week 2**: Attacks on Privacy, Security, Valuation
 
 Readings:
@@ -112,6 +114,12 @@ Readings:
 
 - Attendance is mandatory for all lectures, with a maximum of three unexcused absences allowed.
 - Each student must (co)scribe at least one lecture during the course.
+
+### Exercises (0%)
+
+- There will be weekly (optional) exercises/homework.
+- These exercises will not be graded but you can ask the instructor for the solutions.
+- The goal is to help you prepare for the quiz and to reinforce your understanding of the material.
 
 ### Quiz (10%)
 
