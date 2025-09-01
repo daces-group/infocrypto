@@ -12,7 +12,7 @@ Room 2015 in the Electrical & Computer Engineering Building
 ## Instructor
 [Daniel Alabi](http://alabidan.me)
 
-Office Hours: 11AM-12PM on Tuesdays (CSL 118)
+Office Hours: 11AM-12PM on Tuesdays (CSL 118) and by appointment
 
 ## Prerequisites
 
