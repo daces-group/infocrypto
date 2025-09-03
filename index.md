@@ -42,8 +42,8 @@ Readings:
 **Week 2**: Attacks on Privacy, Security, Valuation
 
 Readings:
+* Chapter 2, Chapter 4 of Trappe-Washington
 * Dinur-Nissim [attack](https://dl.acm.org/doi/10.1145/773153.773173)
-* Chapter 2 of Trappe-Washington
 
 [Exercises for Week 2](exercises/week2.pdf)
 
