@@ -42,7 +42,7 @@ Readings:
 **Week 2**: Attacks on Privacy, Security, Valuation
 
 Readings:
-* Chapter 2, Chapter 4 of Trappe-Washington
+* Chapter 1, Chapter 2, Chapter 4 of Trappe-Washington
 * Dinur-Nissim [attack](https://dl.acm.org/doi/10.1145/773153.773173)
 
 [Exercises for Week 2](exercises/week2.pdf)
@@ -50,12 +50,12 @@ Readings:
 **Week 3**: Standard Mechanisms for Differential Privacy and Composition
 
 Readings:
-* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapters 1 and 2
+*  Chapters 1 and 2 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
 **Week 4**: Information-Theoretic Lower Bounds for Differential Privacy
 
 Readings:
-* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapter 5
+* Chapter 5 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
 **Week 5**: Differentially Private Statistical Estimation and Testing
 
@@ -92,12 +92,12 @@ Readings:
 **Week 11**: Multi-Party Differential Privacy
 
 Readings:
-* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapter 9
+* Chapter 9 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf) 
 
 **Week 12**: Computational Differential Privacy
 
 Readings:
-* [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf), Chapter 10
+* Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
 **Week 13**: More Applications and Project Topics
 
