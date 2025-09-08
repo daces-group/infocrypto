@@ -52,6 +52,8 @@ Readings:
 Readings:
 *  Chapters 1 and 2 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
+[Exercises for Week 3](exercises/week3.pdf)
+
 **Week 4**: Information-Theoretic Lower Bounds for Differential Privacy
 
 Readings:
