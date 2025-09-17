@@ -102,10 +102,10 @@ Readings:
 Readings:
 * Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
-**Week 13**:
+**Week 13**: Quantum Cryptography
 
 Readings:
-* Quantum Cryptography (Chapter 17 of Trappe-Washington)
+* Chapter 17 of Trappe-Washington
 
 **Week 14**: Project Presentations
 
