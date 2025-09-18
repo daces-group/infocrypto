@@ -59,6 +59,8 @@ Readings:
 Readings:
 * Chapter 5 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
+[Exercises for Week 4](exercises/week4.pdf)
+
 **Week 5**: Differentially Private Statistical Estimation and Testing
 
 Readings:
