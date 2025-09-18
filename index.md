@@ -94,20 +94,21 @@ Readings:
 Readings:
 * [Yao](https://ieeexplore.ieee.org/document/4568207)
 
-**Week 11**: Multi-Party Differential Privacy
+**Week 11**: Multi-Party and Computational Differential Privacy
 
 Readings:
-* Chapter 9 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf) 
-
-**Week 12**: Computational Differential Privacy
-
-Readings:
+* Chapter 9 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 * Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
-**Week 13**: Quantum Cryptography
+**Week 12**: Quantum Cryptography
 
 Readings:
 * Chapter 17 of Trappe-Washington
+
+**Week 13**: Watermarking and Information Hiding
+
+Readings:
+* [Moulin and O'Sullivan](https://ieeexplore.ieee.org/document/1184136)
 
 **Week 14**: Project Presentations
 
