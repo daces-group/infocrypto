@@ -108,6 +108,7 @@ Readings:
 
 Readings:
 * [Moulin and O'Sullivan](https://ieeexplore.ieee.org/document/1184136)
+* [He et al.](https://arxiv.org/pdf/2501.16558)
 * [Dathathri et al.](https://www.nature.com/articles/s41586-024-08025-4)
 
 **Week 14**: Project Presentations
