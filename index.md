@@ -67,6 +67,8 @@ Readings:
 * [Gaboardi et al.](https://proceedings.mlr.press/v48/rogers16.html)
 * [McSherry-Talwar](https://ieeexplore.ieee.org/document/4389483)
 
+[Exercises for Week 5](exercises/week5.pdf)
+
 **Week 6**: Privacy for Distributed Computing
 
 Readings:
