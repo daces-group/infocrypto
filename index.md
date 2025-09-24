@@ -61,9 +61,10 @@ Readings:
 
 [Exercises for Week 4](exercises/week4.pdf)
 
-**Week 5**: Differentially Private Statistical Estimation and Testing
+**Week 5**: Differentially Private Statistical Estimation, Machine Learning, and Testing
 
 Readings:
+* [Abadi et al.](https://arxiv.org/abs/1607.00133)
 * [Gaboardi et al.](https://proceedings.mlr.press/v48/rogers16.html)
 * [McSherry-Talwar](https://ieeexplore.ieee.org/document/4389483)
 
