@@ -76,6 +76,8 @@ Readings:
 * [Warner](https://www.jstor.org/stable/2283137)
 * [Kairouz et al.](https://proceedings.mlr.press/v37/kairouz15.html)
 
+[Exercises for Week 6](exercises/week6.pdf)
+
 **Week 7**: Zero-Knowledge Proofs
 
 Readings:
