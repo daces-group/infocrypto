@@ -87,11 +87,13 @@ Readings:
 **Week 8**: Statistical Zero-Knowledge Proofs: Part I
 
 Readings:
-* [Complete Problem for SZK](https://web.cs.ucla.edu/~sahai/work/web/2003%20Publications/J.ACM2003.pdf)
+* [PINE](https://arxiv.org/abs/2311.10237)
+* [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
 
 **Week 9**: Statistical Zero-Knowledge Proofs: Part II
 
 Readings:
+* [Complete Problem for SZK](https://web.cs.ucla.edu/~sahai/work/web/2003%20Publications/J.ACM2003.pdf)
 * [Statistical Difference Beyond the Polarizing Regime](https://eccc.weizmann.ac.il/report/2019/038/)
 
 **Week 10**: Multi-Party Computation
