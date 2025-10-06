@@ -84,17 +84,19 @@ Readings:
 * [Goldwasser-Micali-Rackoff’89](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
 * [Goldreich-Micali-Wigderson’86](https://link.springer.com/chapter/10.1007/3-540-47721-7_11)
 
+[Exercises for Week 7](exercises/week7.pdf)
+
 **Week 8**: Statistical Zero-Knowledge Proofs: Part I
-
-Readings:
-* [PINE](https://arxiv.org/abs/2311.10237)
-* [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
-
-**Week 9**: Statistical Zero-Knowledge Proofs: Part II
 
 Readings:
 * [Complete Problem for SZK](https://web.cs.ucla.edu/~sahai/work/web/2003%20Publications/J.ACM2003.pdf)
 * [Statistical Difference Beyond the Polarizing Regime](https://eccc.weizmann.ac.il/report/2019/038/)
+
+**Week 9**: Statistical Zero-Knowledge Proofs: Part II
+
+Readings:
+* [PINE](https://arxiv.org/abs/2311.10237)
+* [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
 
 **Week 10**: Multi-Party Computation
 
