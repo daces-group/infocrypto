@@ -86,13 +86,13 @@ Readings:
 
 [Exercises for Week 7](exercises/week7.pdf)
 
-**Week 8**: Statistical Zero-Knowledge Proofs: Part I
+**Week 8**: Statistical Zero-Knowledge Proofs
 
 Readings:
 * [Complete Problem for SZK](https://web.cs.ucla.edu/~sahai/work/web/2003%20Publications/J.ACM2003.pdf)
 * [Statistical Difference Beyond the Polarizing Regime](https://eccc.weizmann.ac.il/report/2019/038/)
 
-**Week 9**: Statistical Zero-Knowledge Proofs: Part II
+**Week 9**: Statistical Zero-Knowledge Proofs with Multiple Verifiers
 
 Readings:
 * [PINE](https://arxiv.org/abs/2311.10237)
