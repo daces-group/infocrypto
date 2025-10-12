@@ -92,6 +92,8 @@ Readings:
 * [Complete Problem for SZK](https://web.cs.ucla.edu/~sahai/work/web/2003%20Publications/J.ACM2003.pdf)
 * [Statistical Difference Beyond the Polarizing Regime](https://eccc.weizmann.ac.il/report/2019/038/)
 
+[Exercises for Week 8](exercises/week8.pdf)
+
 **Week 9**: Statistical Zero-Knowledge Proofs with Multiple Verifiers
 
 Readings:
