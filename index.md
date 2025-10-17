@@ -98,14 +98,14 @@ Readings:
 
 Readings:
 * PRIO: [paper](https://arxiv.org/abs/1703.06255), [application](https://machinelearning.apple.com/research/scenes-differential-privacy)
-* [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
-* PINE: [paper](https://arxiv.org/abs/2311.10237), [IETF](https://datatracker.ietf.org/doc/html/draft-chen-cfrg-vdaf-pine-00)
+* Secret Sharing: Chapter 10 of Trappe-Washington
 
-**Week 10**: Arithmetic Sketching
+**Week 10**: Fully Linear PCPs and Arithmetic Sketching
 
 Readings:
+* [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
 * [Arithmetic Sketching](https://eprint.iacr.org/2023/1012)
-* [Yao](https://ieeexplore.ieee.org/document/4568207)
+* PINE: [paper](https://arxiv.org/abs/2311.10237), [IETF](https://datatracker.ietf.org/doc/html/draft-chen-cfrg-vdaf-pine-00)
 
 **Week 11**: Multi-Party and Computational Differential Privacy
 
