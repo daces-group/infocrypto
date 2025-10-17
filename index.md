@@ -97,6 +97,7 @@ Readings:
 **Week 9**: Statistical Zero-Knowledge Proofs with Multiple Verifiers
 
 Readings:
+* PRIO: [paper](https://arxiv.org/abs/1703.06255)
 * PINE: [paper](https://arxiv.org/abs/2311.10237), [IETF](https://datatracker.ietf.org/doc/html/draft-chen-cfrg-vdaf-pine-00)
 * [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
 
