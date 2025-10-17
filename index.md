@@ -101,9 +101,10 @@ Readings:
 * [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
 * PINE: [paper](https://arxiv.org/abs/2311.10237), [IETF](https://datatracker.ietf.org/doc/html/draft-chen-cfrg-vdaf-pine-00)
 
-**Week 10**: Multi-Party Computation
+**Week 10**: Arithmetic Sketching
 
 Readings:
+* [Arithmetic Sketching](https://eprint.iacr.org/2023/1012)
 * [Yao](https://ieeexplore.ieee.org/document/4568207)
 
 **Week 11**: Multi-Party and Computational Differential Privacy
