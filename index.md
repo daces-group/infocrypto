@@ -125,7 +125,11 @@ Readings:
 * [He et al.](https://arxiv.org/pdf/2501.16558)
 * [Dathathri et al.](https://www.nature.com/articles/s41586-024-08025-4)
 
-**Week 14**: Project Presentations
+**Week 14**: Fall Break
+
+**Week 15**: Project Presentations
+
+**Week 16**: Project Presentations and Quiz
 
 ## Grading Policy
 
@@ -133,6 +137,7 @@ Readings:
 
 - Attendance is mandatory for all lectures, with a maximum of three unexcused absences allowed.
 - Each student must (co)scribe at least one lecture during the course.
+- Students must attend final project presentations.
 
 ### Exercises (0%)
 
@@ -143,12 +148,12 @@ Readings:
 ### Quiz (10%)
 
 - There will be 1 (in-class) short quiz to gauge students’ understanding of the fundamentals.
-- The quiz will happen either in the middle or end of the semester.
+- The quiz will take place towards the end of the semester (December 11).
   
 ### Project (60%)
 Students will work on projects related to one or more of the covered topics.
 The project is divided into four components:
-- Proposal: 15%
-- Mid-term report: 15%
-- Final presentation: 15%
-- Final report: 15%
+- Proposal: 15% (October 2)
+- Mid-term report: 15% (October 17)
+- Final presentation: 15% (December 1-5)
+- Final report: 15% (Dececember 18)
