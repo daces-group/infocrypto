@@ -155,5 +155,5 @@ Students will work on projects related to one or more of the covered topics.
 The project is divided into four components:
 - Proposal: 15% (October 2)
 - Mid-term report: 15% (October 17)
-- Final presentation: 15% (December 1-5)
+- Final presentation: 15% (December 1-9)
 - Final report: 15% (Dececember 18)
