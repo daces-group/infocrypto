@@ -148,7 +148,7 @@ Readings:
 ### Quiz (10%)
 
 - There will be 1 (in-class) short quiz to gauge students’ understanding of the fundamentals.
-- The quiz will take place towards the end of the semester (December 11).
+- The quiz will take place towards the end of the semester (December 9).
   
 ### Project (60%)
 Students will work on projects related to one or more of the covered topics.
