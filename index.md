@@ -100,6 +100,8 @@ Readings:
 * PRIO: [paper](https://arxiv.org/abs/1703.06255), [application](https://machinelearning.apple.com/research/scenes-differential-privacy)
 * Secret Sharing: Chapter 10 of Trappe-Washington
 
+[Exercises for Week 9](exercises/week9.pdf)
+
 **Week 10**: Fully Linear PCPs and Arithmetic Sketching
 
 Readings:
