@@ -109,6 +109,8 @@ Readings:
 * [Arithmetic Sketching](https://eprint.iacr.org/2023/1012)
 * PINE: [paper](https://arxiv.org/abs/2311.10237), [IETF](https://datatracker.ietf.org/doc/html/draft-chen-cfrg-vdaf-pine-00)
 
+[Exercises for Week 10](exercises/week10.pdf)
+
 **Week 11**: Multi-Party and Computational Differential Privacy
 
 Readings:
