@@ -116,6 +116,8 @@ Readings:
 Readings:
 * Chapter 9 and Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
+[Exercises for Week 11](exercises/week11.pdf)
+
 **Week 12**: Quantum Cryptography
 
 Readings:
