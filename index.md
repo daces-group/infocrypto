@@ -124,6 +124,8 @@ Readings:
 * Chapter 17 of Trappe-Washington
 * [Quantum SZK](https://arxiv.org/pdf/quant-ph/0202111)
 
+[Exercises for Week 12](exercises/week12.pdf)
+
 **Week 13**: Watermarking and Information Hiding
 
 Readings:
