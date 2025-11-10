@@ -121,8 +121,8 @@ Readings:
 **Week 12**: Quantum Cryptography
 
 Readings:
+* Chapter 1 of *Quantum Computation and Quantum Information* by Michael A. Nielsen and Isaac L. Chuang
 * Chapter 17 of Trappe-Washington
-* [Quantum SZK](https://arxiv.org/pdf/quant-ph/0202111)
 
 [Exercises for Week 12](exercises/week12.pdf)
 
