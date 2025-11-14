@@ -133,6 +133,8 @@ Readings:
 * [He et al.](https://arxiv.org/pdf/2501.16558)
 * [Dathathri et al.](https://www.nature.com/articles/s41586-024-08025-4)
 
+[Exercises for Week 13](exercises/week13.pdf)
+
 **Week 14**: Fall Break
 
 **Week 15**: Project Presentations
