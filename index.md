@@ -126,9 +126,10 @@ Readings:
 
 [Exercises for Week 12](exercises/week12.pdf)
 
-**Week 13**: Watermarking and Information Hiding
+**Week 13**: Information Hiding: Watermarking and Steganography
 
 Readings:
+* [Chen and Wornell](https://dl.acm.org/doi/10.1109/18.923725)
 * [Moulin and O'Sullivan](https://ieeexplore.ieee.org/document/1184136)
 * [He et al.](https://arxiv.org/pdf/2501.16558)
 * [Dathathri et al.](https://www.nature.com/articles/s41586-024-08025-4)
