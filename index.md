@@ -131,7 +131,6 @@ Readings:
 Readings:
 * [Chen and Wornell](https://dl.acm.org/doi/10.1109/18.923725)
 * [Moulin and O'Sullivan](https://ieeexplore.ieee.org/document/1184136)
-* [He et al.](https://arxiv.org/pdf/2501.16558)
 * [Dathathri et al.](https://www.nature.com/articles/s41586-024-08025-4)
 
 [Exercises for Week 13](exercises/week13.pdf)
@@ -166,5 +165,5 @@ Students will work on projects related to one or more of the covered topics.
 The project is divided into four components:
 - Proposal: 15% (October 2)
 - Mid-term report: 15% (October 17)
-- Final presentation: 15% (December 1-9)
+- Final presentation: 15% (December 2, 4, 9)
 - Final report: 15% (Dececember 18)
