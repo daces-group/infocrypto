@@ -19,7 +19,7 @@ Office Hours: 11AM-12PM on Tuesdays (CSL 118) and by appointment
 *	At least one of:
     - ECE 313/MATH 362: Probability with Engineering Applications
     - MATH 461: Probability Theory
-*	ECE/CS 374: Introduction to Algorithms and Models of Computation
+*	CS/ECE 374: Introduction to Algorithms and Models of Computation
 
 Prerequisite overrides will be considered by the instructor on a case-by-case basis.
 
