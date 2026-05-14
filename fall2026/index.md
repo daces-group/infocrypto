@@ -84,22 +84,19 @@ Readings:
 * PRIO: [paper](https://arxiv.org/abs/1703.06255), [application](https://machinelearning.apple.com/research/scenes-differential-privacy)
 * Secret Sharing: Chapter 10 of Trappe-Washington
 
-**Week 10**: Fully Linear PCPs and Arithmetic Sketching
-
-Readings:
-* [Fully Linear PCPs](https://eprint.iacr.org/2019/188.pdf)
-* [Arithmetic Sketching](https://eprint.iacr.org/2023/1012)
-* PINE: [paper](https://arxiv.org/abs/2311.10237), [IETF](https://datatracker.ietf.org/doc/html/draft-chen-cfrg-vdaf-pine-00)
-
-**Week 11**: Multi-Party and Computational Differential Privacy
+**Week 10**: Multi-Party and Computational Differential Privacy
 
 Readings:
 * Chapter 9 and Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
-**Week 12**: Quantum Cryptography
+**Week 11**: Basics of Quantum Information and Computation
 
 Readings:
 * Chapter 1, Chapter 4, Chapter 5 of *Quantum Computation and Quantum Information* by Michael A. Nielsen and Isaac L. Chuang
+
+**Week 12**: Quantum Cryptography
+
+Readings:
 * Chapter 17 of Trappe-Washington
 
 **Week 13**: Information Hiding: Watermarking and Steganography
