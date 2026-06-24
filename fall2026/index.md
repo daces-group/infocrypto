@@ -130,7 +130,6 @@ Readings:
 
 - There will be (in-class) quizzes to gauge students’ understanding of the fundamentals.
 - Most of the quiz questions will be simplified versions of the exercises.
-- The lowest quiz (out of at least 4) grade will be dropped.
 
 ### Project (60%)
 Students will work on projects related to one or more of the covered topics.
