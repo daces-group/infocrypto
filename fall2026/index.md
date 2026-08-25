@@ -37,6 +37,8 @@ Readings:
 * Chapter 1 of *The Information* by James Gleick
 * Chapters 1-3 of *Introduction to Probability Models* by Sheldon Ross
 
+[Exercises for Week 1](exercises/week1.pdf)
+
 **Week 2**: Attacks on Privacy, Security, Valuation
 
 Readings:
