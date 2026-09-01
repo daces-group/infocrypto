@@ -45,6 +45,8 @@ Readings:
 * Chapter 1, Chapter 2, Chapter 4 of Trappe-Washington
 * Dinur-Nissim [attack](https://dl.acm.org/doi/10.1145/773153.773173)
 
+[Exercises for Week 2](exercises/week2.pdf)
+
 **Week 3**: Standard Mechanisms for Differential Privacy and Composition
 
 Readings:
