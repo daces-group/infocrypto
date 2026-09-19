@@ -63,6 +63,8 @@ Readings:
 
 **Week 5**: Differentially Private Statistical Estimation, Machine Learning, and Testing
 
+*Quiz 1* (covers weeks 1 to 4)
+
 Readings:
 * [Abadi et al.](https://arxiv.org/abs/1607.00133)
 * [Gaboardi et al.](https://proceedings.mlr.press/v48/rogers16.html)
