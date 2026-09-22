@@ -100,6 +100,7 @@ Readings:
 
 Readings:
 * Chapter 9 and Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
+* [MZK](https://eprint.iacr.org/2026/2104)
 
 **Week 11**: Basics of Quantum Information and Computation
 
