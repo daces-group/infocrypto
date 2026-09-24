@@ -56,6 +56,8 @@ Readings:
 
 **Week 4**: Information-Theoretic Lower Bounds for Differential Privacy
 
+*Project Proposal Due*
+
 Readings:
 * Chapter 5 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 
@@ -86,6 +88,8 @@ Readings:
 
 **Week 8**: Statistical Zero-Knowledge Proofs
 
+*Midterm Project Report Due*
+
 Readings:
 * [Complete Problem for SZK](https://web.cs.ucla.edu/~sahai/work/web/2003%20Publications/J.ACM2003.pdf)
 * [Statistical Difference Beyond the Polarizing Regime](https://eccc.weizmann.ac.il/report/2019/038/)
@@ -97,6 +101,8 @@ Readings:
 * Secret Sharing: Chapter 10 of Trappe-Washington
 
 **Week 10**: Multi-Party and Computational Differential Privacy
+
+*Quiz 2* (covers weeks 5 to 9)
 
 Readings:
 * Chapter 9 and Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
@@ -124,7 +130,11 @@ Readings:
 
 **Week 15**: Project Presentations
 
+*Quiz 3* (covers weeks 10 to 13)
+
 **Week 16**: Project Presentations
+
+*Final Project Report Due*
 
 ## Grading Policy
 
