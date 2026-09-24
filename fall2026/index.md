@@ -78,7 +78,7 @@ Readings:
 
 Readings:
 * [Warner](https://www.jstor.org/stable/2283137)
-* [Kairouz et al.](https://proceedings.mlr.press/v37/kairouz15.html)
+* [Kairouz et al.](https://proceedings.neurips.cc/paper_files/paper/2015/hash/a01610228fe998f515a72dd730294d87-Abstract.html)
 
 **Week 7**: Zero-Knowledge Proofs
 
