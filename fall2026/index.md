@@ -80,6 +80,8 @@ Readings:
 * [Warner](https://www.jstor.org/stable/2283137)
 * [Kairouz et al.](https://proceedings.neurips.cc/paper_files/paper/2015/hash/a01610228fe998f515a72dd730294d87-Abstract.html)
 
+[Exercises for Week 6](exercises/week6.pdf)
+
 **Week 7**: Zero-Knowledge Proofs
 
 Readings:
