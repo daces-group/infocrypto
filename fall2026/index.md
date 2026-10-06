@@ -88,6 +88,8 @@ Readings:
 * [Goldwasser-Micali-Rackoff’89](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
 * [Goldreich-Micali-Wigderson’86](https://link.springer.com/chapter/10.1007/3-540-47721-7_11)
 
+[Exercises for Week 7](exercises/week7.pdf)
+
 **Week 8**: Statistical Zero-Knowledge Proofs
 
 *Midterm Project Report Due*
