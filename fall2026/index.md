@@ -108,13 +108,15 @@ Readings:
 
 [Exercises for Week 9](exercises/week9.pdf)
 
-**Week 10**: Multi-Party and Computational Differential Privacy
+**Week 10**: Multiplicative Zero-Knowledge Proofs and Multi-Party Differential Privacy
 
 *Quiz 2* (covers weeks 5 to 9)
 
 Readings:
-* Chapter 9 and Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
 * [MZK](https://eprint.iacr.org/2026/2104)
+* Chapter 9 and Chapter 10 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/the_complexity_of_differential_privacy.pdf)
+
+[Exercises for Week 10](exercises/week10.pdf)
 
 **Week 11**: Basics of Quantum Information and Computation
 
