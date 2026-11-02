@@ -123,10 +123,14 @@ Readings:
 Readings:
 * Chapter 1, Chapter 4, Chapter 5 of *Quantum Computation and Quantum Information* by Michael A. Nielsen and Isaac L. Chuang
 
+[Exercises for Week 11](exercises/week11.pdf)
+
 **Week 12**: Quantum Cryptography
 
 Readings:
 * Chapter 17 of Trappe-Washington
+
+[Exercises for Week 12](exercises/week12.pdf)
 
 **Week 13**: Information Hiding: Watermarking and Steganography
 
@@ -135,6 +139,8 @@ Readings:
 * [Chen and Wornell](https://dl.acm.org/doi/10.1109/18.923725)
 * [Moulin and O'Sullivan](https://ieeexplore.ieee.org/document/1184136)
 * [Dathathri et al.](https://www.nature.com/articles/s41586-024-08025-4)
+
+[Exercises for Week 13](exercises/week13.pdf)
 
 **Week 14**: Fall Break
 
